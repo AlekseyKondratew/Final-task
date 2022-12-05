@@ -1,0 +1,15 @@
+C:\Users\Пользователь\C#\dz3-zadacha21\obj\Debug\net6.0\dz3-zadacha21.csproj.AssemblyReference.cache
+C:\Users\Пользователь\C#\dz3-zadacha21\obj\Debug\net6.0\dz3-zadacha21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\C#\dz3-zadacha21\obj\Debug\net6.0\dz3-zadacha21.AssemblyInfoInputs.cache
+C:\Users\Пользователь\C#\dz3-zadacha21\obj\Debug\net6.0\dz3-zadacha21.AssemblyInfo.cs
+C:\Users\Пользователь\C#\dz3-zadacha21\obj\Debug\net6.0\dz3-zadacha21.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\C#\dz3-zadacha21\bin\Debug\net6.0\dz3-zadacha21.exe
+C:\Users\Пользователь\C#\dz3-zadacha21\bin\Debug\net6.0\dz3-zadacha21.deps.json
+C:\Users\Пользователь\C#\dz3-zadacha21\bin\Debug\net6.0\dz3-zadacha21.runtimeconfig.json
+C:\Users\Пользователь\C#\dz3-zadacha21\bin\Debug\net6.0\dz3-zadacha21.dll
+C:\Users\Пользователь\C#\dz3-zadacha21\bin\Debug\net6.0\dz3-zadacha21.pdb
+C:\Users\Пользователь\C#\dz3-zadacha21\obj\Debug\net6.0\dz3-zadacha21.dll
+C:\Users\Пользователь\C#\dz3-zadacha21\obj\Debug\net6.0\refint\dz3-zadacha21.dll
+C:\Users\Пользователь\C#\dz3-zadacha21\obj\Debug\net6.0\dz3-zadacha21.pdb
+C:\Users\Пользователь\C#\dz3-zadacha21\obj\Debug\net6.0\dz3-zadacha21.genruntimeconfig.cache
+C:\Users\Пользователь\C#\dz3-zadacha21\obj\Debug\net6.0\ref\dz3-zadacha21.dll
