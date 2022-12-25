@@ -20,3 +20,8 @@ void PrintArr(string[] arr)
     }
     Console.WriteLine();
 }
+SecondArrWithIF(arr1, arr2);
+System.Console.WriteLine("Первоначальный массив");
+PrintArr(arr1);
+System.Console.WriteLine("Новый массив");
+PrintArr(arr2);
